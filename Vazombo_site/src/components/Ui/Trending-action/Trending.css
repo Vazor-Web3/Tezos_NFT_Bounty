@@ -1,0 +1,12 @@
+.trending{
+    margin-top: 100px;
+}
+
+
+.trending__title{
+    color: greenyellow;
+    text-decoration: underline;
+    text-underline-offset: 15px !important ;
+
+}
+

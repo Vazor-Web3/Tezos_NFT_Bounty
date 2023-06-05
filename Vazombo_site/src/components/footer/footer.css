@@ -1,0 +1,84 @@
+footer, h5{
+    color: #fff;
+    font-size: 1.1rem;
+    
+}
+
+
+footer{
+    padding-bottom: 40px;
+    background:  #020501!important;
+   
+}
+
+.list__item{
+    background: transparent !important;
+    padding-left: 0 !important;
+    border: none;
+   
+    
+}
+
+
+.list__group{
+    padding-left: 0 !important;
+}
+
+.list__group a{
+    text-decoration: none;
+    color: gray;
+  
+
+}
+.list__group a:hover{
+    text-decoration: underline yellow;
+    color: yellow;
+    transition: 0.3s all;
+    text-underline-offset: 10px;
+    opacity: 85%;
+}
+
+
+.newsletter{
+    width: 100%;
+    border-radius: 50px;
+    color: white;
+    padding: 8px 25px;
+    outline: none;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 0.8rem;
+    background: gray;
+
+}
+
+
+::placeholder{
+    color: #fff;
+    opacity: 85px;
+}
+
+
+.social__links span a{
+    text-decoration: none;
+    color: yellowgreen;
+    opacity: 85%;
+    font-size: 1.5rem;
+    font-weight: 400;
+     
+}
+
+
+.social__links span a:hover{
+    opacity: 0.3;
+}
+
+#root > div > footer > div > div > div:nth-child(1) > p{
+    line-height: 30px;
+    color: gray;
+}
+
+.lorem__p{
+    color: gray;
+}
